@@ -2,7 +2,7 @@
 A Unity project for creating and exploring a 3D maze with the following features:
 
 ## Main Features
-- Procedural maze generator with a custom algorithm
+- Procedural maze generator with **Recursive BackTracking Algorithm**
 - Player control system for maze navigation
 - Audio manager for sound effects and music
 - Two scenes: Main Menu (useless) and Maze Demo
